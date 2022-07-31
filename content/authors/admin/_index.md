@@ -1,6 +1,6 @@
 ---
 title: Kaiyuan Li
-role: Master of Engineering student @Duke University
+role: Master of Engineering student
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
