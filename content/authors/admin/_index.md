@@ -1,6 +1,6 @@
 ---
 title: Kaiyuan Li
-role: Master of Engineering student
+role: M.Eng student
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
