@@ -1,6 +1,6 @@
 ---
 title: Kaiyuan Li
-role: Professor of Artificial Intelligence
+role: Master of Engineering student @Duke University
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
