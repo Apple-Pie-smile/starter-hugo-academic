@@ -28,7 +28,7 @@ organizations:
     url: https://www.duke.edu/
 education:
   courses:
-    - course: MEng in Electrical and Computer Engineering
+    - course: MEng in Computer Engineering
       institution: Duke University
       year: 2021
     - course: B.E. in Electronic Information Engineering
